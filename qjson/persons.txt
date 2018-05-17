@@ -1,0 +1,24 @@
+{
+  "persons": {
+    "teachers": [
+        {
+          "name": "maoxd",
+          "sex": 2
+        },
+        {
+          "name": "mengxw",
+          "sex": 2
+        }
+    ],
+    "students": [
+        {
+          "name": "zhangcheng",
+          "sex": 2
+        },
+        {
+          "name": "zhangyp",
+          "sex": 2
+        }
+    ]
+  }
+}
